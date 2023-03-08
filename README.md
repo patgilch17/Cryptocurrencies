@@ -1,1 +1,4 @@
 # Cryptocurrencies
+
+## Overview
+The purpose of this project is to attempt to classify and group the different existing cryptocurrencies.  This grouping or clustering could then be used to identify trends amongst them and potentially offer some insight into which currencies should be considered when investing.  To do this we are using the K-means Machine Learning algorithm which attempts to group data points into a pre-determined number of clusters where the algorithm then minimizes the distances between a clusters points and its centroid.  Finally, our groups are then graphed to provide some visualizations on how the data points were clustered.
